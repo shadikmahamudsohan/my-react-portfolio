@@ -1,7 +1,6 @@
 import { useRef } from "react";
 import "./services.scss";
 import { inView, motion, stagger, useInView } from "framer-motion";
-import Box from "./box/Box";
 
 const variants = {
   initial: {
